@@ -7,7 +7,7 @@ $('.banner_carousel_wrapper .owl-carousel').on("initialized.owl.carousel changed
       items: 1,
       loop: true,
       dots: true,
-      autoplay: false,
+      autoplay: true,
       dotsContainer: $('.banner_carousel_wrapper .owl_dots'),
       animateIn: 'fadeIn',
       animateOut: 'fadeOut'

@@ -15,7 +15,7 @@ body{
   color: bac;
 }
 .banner_carousel_wrapper .logo_wrapper .logo_text {
-  display: inline-block;
+  display: flex;
   font-family: "Roboto", sans-serif;
   line-height: 24px;
   font-size: 20px;
@@ -26,7 +26,7 @@ body{
 
 strong{
   font-size: 36px;
-   color: #F0FFFF;
+  color: white;
 }
 
 .banner_carousel_wrapper .banner .owl-item.active .title {
