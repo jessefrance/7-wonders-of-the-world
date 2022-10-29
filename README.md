@@ -7,6 +7,6 @@
 <ul>Os aprendizados reforçados e adquiridos durante a execução desse projeto foram:
   
   <li>HTML | CSS</li>
-  <li>Aprimorando a estrutura CARROSEL em JavaScript</li>
+  <li>Aprimorando a estrutura CARROSSEL em JavaScript</li>
   
 </ul>
